@@ -3,7 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SkyCast</title>
+    <title>SkyCast — Weather Intelligence</title>
+    
+    <!-- Favicon & App Icons -->
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    <link rel="apple-touch-icon" href="/favicon.png">
+    <meta name="theme-color" content="#4b5d67">
+    
+    <!-- SEO -->
+    <meta name="description" content="SkyCast — Real-time weather intelligence with hyper-accurate forecasts, hourly data, and a premium glassmorphism dashboard.">
+    <meta property="og:title" content="SkyCast — Weather Intelligence">
+    <meta property="og:description" content="Real-time weather forecasts in a premium, distraction-free interface.">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:type" content="website">
     
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
